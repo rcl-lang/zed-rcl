@@ -13,6 +13,7 @@
 ["." "," ";" ":" "="] @punctuation.delimiter
 
 (comment) @comment
+(shebang) @preproc
 (number) @number
 (bool) @boolean
 (null) @constant
